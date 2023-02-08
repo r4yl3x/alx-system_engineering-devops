@@ -27,3 +27,5 @@
 13-symbolic_link ==> Create a symbolic link to /bin/ls, named __ls__
 
 14-copy_html ==> Copy html files to parent
+
+100-lets_move ==> moves all files beginning with an uppercase letter to the directory /tmp/u
