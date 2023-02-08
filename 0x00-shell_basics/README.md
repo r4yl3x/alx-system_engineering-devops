@@ -3,3 +3,4 @@
 2-bring_me_home ==> Go home
 3-listfiles ==> List long format
 4-listmorefiles ==> List hidden files and directories
+5-listfilesdigitonly ==> Display long format and user and group IDs displayed numerically
