@@ -21,3 +21,7 @@
 10-back ==> Change the working directory to the previous one
 
 11-lists ==> List current,parent and /boot directories in reverse
+
+12-file_type ==> prints the type of the file named /tmp/iamafile
+
+13-symbolic_link ==> Create a symbolic link to /bin/ls, named __ls__
